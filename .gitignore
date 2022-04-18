@@ -4,6 +4,7 @@
 *.crt
 *.key
 *.local.*
+.DS_Store
 
 # General
 **/*.env
